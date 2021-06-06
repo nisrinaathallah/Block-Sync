@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SavingsAccount\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=balance
+comment1.target=SavingsAccount(float)
+comment2.params=anAmount
+comment2.target=void\ withdraw(float)
+comment2.text=\ \r\n\ Method\ withdraw\ digunakan\ untuk\ mengambil\ \r\n\ atau\ mengurangi\ uang\ dari\ balance\ yang\ dimiliki\r\n\ @param\ anAmount\ Uang\ yang\ dikeluarkan\r\n
+comment3.params=anAmount
+comment3.target=void\ deposit(float)
+comment3.text=\ \r\n\ Method\ deposit\ digunakan\ untuk\ menambah\r\n\ uang\ dari\ balance\ yang\ dimiliki\r\n\ @param\ anAmount\ uang\ yang\ dimasukkan\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ \r\n\ Method\ tostring\ digunakan\ untuk\ melakukan\r\n\ print\ variabel\ balance\ yang\ dimiliki\r\n\ @return\ String\ jumlah\ balance\r\n
+numComments=5
